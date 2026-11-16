@@ -16,11 +16,13 @@ Player* myPlayer;
 Bullet** myBulletBucket;
 Enemy** myEnemyBucket;
 
-// change 1 - I have some comments updated
+// ENG 1: change 1.1 - I have some comments updated + new features!
 
 // change 2 - I have another change
 
 // ENG2: change 3 - I have some more changes
+
+// ENG 1: MORE FEATURES!!
 
 
 void Initialize(void);
